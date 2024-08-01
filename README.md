@@ -1,7 +1,6 @@
 <h1 align="center">Heyy, I'm Fathima</h1>
 <h3 align="center">A passionate computer science aspirant.</h3>
 
-- 👨‍💻 My projects are available at [myportfolio0113.wordpress.com](https://myportfolio0113.wordpress.com/)
 - 💬 Ask me about **react, java, and flutter**
 
 <h3 align="left">Connect with me:</h3>
