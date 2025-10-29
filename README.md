@@ -1,5 +1,5 @@
-<h1 align="center">Heyy, I'm Fathima</h1>
-<h3 align="center">A passionate computer science graduate.</h3>
+<h1 align="center">Heyy, welcome </h1>
+<h3 align="center">I'm a passionate AI innovator.</h3>
 
 🎓 **Computer Science Graduate** from Heriot-Watt University  
 💡 Passionate about leveraging technology to solve real-world problems.  
