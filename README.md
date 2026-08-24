@@ -1,11 +1,11 @@
 <h1 align="center">Heyy, welcome </h1>
 <h3 align="center">I'm a passionate AI innovator.</h3>
 
-🎓 **Computer Science Graduate** from Heriot-Watt University  
+🎓 **Computer Science Graduate** from Heriot-Watt University, specializing in AI  
 💡 Passionate about leveraging technology to solve real-world problems.  
 🔍 Interested in **Machine Learning**, **Artificial Intelligence (AI)**, and **Healthcare Technology**.
 
-- 💬 Ask me about **python, java, and flutter**
+- 💬 Ask me about **python, java, flutter and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
